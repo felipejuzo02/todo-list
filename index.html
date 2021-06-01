@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Todo List</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Cairo&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  </head>
+
+  <body>
+    <header class="menu-top">
+      <div class="title">
+       <p><span><</span>luis-juzo<span>/></span></p>
+      </div>
+
+      <nav class="navegation">
+        <a href="#">VER REPOSITÓRIO</a>
+      </nav>
+    </header>
+
+    <main>
+      <div class="description">
+        <h1>TODO-LIST</h1>
+        <p>Organizador de Ações</p>
+      </div>
+
+      <div class="content">
+        <form class="content-actions">
+          <input type="text" placeholder="Digite aqui a tarefa..." class="input-task" data-input>
+          <button class="button" data-button>Adicionar</button>
+        </form>
+
+        <div class="content-tasks">
+          <ul class="tasks" data-list>
+          </ul>
+        </div>
+      </div>
+    </main>
+    <script src="scripts/actions.js"></script>
+  </body>
+</html>
