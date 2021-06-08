@@ -48,3 +48,18 @@ Cores:
 
 
 # Resultado final
+- Desktop:
+![Desktop-pronto](https://user-images.githubusercontent.com/79236683/121219681-55fa2200-c85a-11eb-81c9-7125fe59da9d.png)
+
+- Mobile:
+![Mobile-pronto](https://user-images.githubusercontent.com/79236683/121219720-61e5e400-c85a-11eb-82fe-0c964dd89f9a.png)
+
+
+# Alguns ajustes a serem feito
+- Melhorar a responsividade;
+- Ver uma melhor forma de realizar a ação de adicionar a lista;
+
+
+# Planejamento
+- Realizar esse todo-list em VUE.js
+
